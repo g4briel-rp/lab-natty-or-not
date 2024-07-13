@@ -20,6 +20,8 @@ Este projeto consiste na criação de um eBook introdutório sobre Visão Comput
 
 O resultado final é um eBook abrangente que serve como uma introdução completa à Visão Computacional. O eBook oferece uma base sólida para iniciantes, cobrindo desde os conceitos básicos até as aplicações práticas e tendências futuras da área.
 
+[LINK PARA O E-BOOK AQUI](ebook.pdf)
+
 ## 💭 Reflexão (Opcional)
 
 Criar este e-book com a ajuda da IA foi uma experiência enriquecedora. A IA facilitou o processo de geração de conteúdo, permitindo que nos concentrássemos mais na estrutura e na qualidade da informação. No entanto, garantir que o conteúdo fosse claro, coeso e esteticamente agradável ainda exigiu uma intervenção humana significativa, mostrando que a colaboração entre humanos e IA pode resultar em produtos de alta qualidade.
